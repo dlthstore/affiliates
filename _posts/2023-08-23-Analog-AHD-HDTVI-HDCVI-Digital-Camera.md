@@ -3,8 +3,7 @@ published: true
 layout: post
 author: sal
 categories:
-  - Jekyll
-  - tutorial
+  - Camera
 image: assets/images/AHD-HDTVI-HCVI.png
 ---
 ## A New Post
